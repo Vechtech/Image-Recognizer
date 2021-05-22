@@ -1,0 +1,33 @@
+body{
+
+background: linear-gradient(red,orange,lime,yellow);
+
+}
+.list{
+
+color: lime;
+background-color: black;
+font-size: 22px;
+font-family: sans-serif;
+
+}
+hr{
+
+height: 6px;
+width: 60%;
+background-color: rgb(0, 255, 255);
+
+}
+.heading{
+
+font-size: 22px;
+
+
+}
+#camera {
+
+border: 2px solid red;
+width: 350px;
+height: 300px;
+
+}
